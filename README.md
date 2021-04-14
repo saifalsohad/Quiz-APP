@@ -1,4 +1,8 @@
-Starter code for quiz-app beginner react project
+Stepsto Run the project:
+
+Prerequisite:
+#You have to have nodejs installed in your local machine.
+
 
 - clone repo
 - npm install
