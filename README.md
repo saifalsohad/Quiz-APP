@@ -1,5 +1,5 @@
-# Quiz App using React  
-
+# Quiz App using React</br>   
+ I have made a quiz app using React. 
 ## Steps to Run the project:
 
 Prerequisite:  
