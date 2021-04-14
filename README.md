@@ -1,7 +1,7 @@
 Stepsto Run the project:
 
-Prerequisite:
-#You have to have nodejs installed in your local machine.
+Prerequisite:  
+*You have to have nodejs installed in your local machine.
 
 
 - clone repo
