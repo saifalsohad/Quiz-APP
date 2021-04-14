@@ -3,9 +3,7 @@
 Steps to Run the project:
 
 Prerequisite:  
-* You have to have nodejs installed in your local machine.
+* **You have to have node.js installed in your local machine**.</br>   
+ 
+# Steps:
 
-
-- clone repo
-- npm install
-- npm start
